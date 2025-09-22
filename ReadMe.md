@@ -9,7 +9,7 @@
 ```bash
     sudo mysql -u root -p
 ```
-Создание пользователя (username и password находится в leetcode-java-project/src/main/resources/application.properties)
+Создание пользователя (username и password находится в leetcode_project/src/main/resources/application.properties)
 ```bash
     CREATE USER 'username' IDENTIFIED BY 'password';
 ```
