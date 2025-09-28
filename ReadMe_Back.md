@@ -16,7 +16,7 @@ API коммуникация: REST API между фронтендом и бэк
 3. **Администратор** — управляет пользователями, контентом и настройками системы.
 
 ### Диаграмма вариантов использования:
-![Use Case Diagram](link/to/use-case-diagram.png)
+![Use Case Diagram](https://github.com/lesiayarm/leetcode_project/tree/main/UMLDiagrams)
 
 ## Схема базы данных
 ### ER-диаграмма:
