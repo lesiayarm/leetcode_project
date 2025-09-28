@@ -8,7 +8,7 @@ React.js + TypeScript - для создания современного, отз
 
 ## Прототипы страниц
 Ссылка на макеты в Figma:  
-[Figma Prototype](https://www.figma.com/file/...)
+[Figma Prototype](https://www.figma.com/design/20pzOFeUfxEfxkTQCgRJ76/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE-s-team-library?node-id=0-1&p=f&t=R5sC3lhbfJlP7eLD-0)
 
 ## API сервера
 Base URL: `http://localhost:8000/api`  
