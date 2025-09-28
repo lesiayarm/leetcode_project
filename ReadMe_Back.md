@@ -12,11 +12,18 @@ API коммуникация: REST API между фронтендом и бэк
 ## Роли пользователей и варианты использования
 ### Роли:
 1. **Гость** — может просматривать публичную информацию.
+<img width="766" height="817" alt="image" src="https://github.com/lesiayarm/leetcode_project/tree/main/UMLDiagrams/Guest.svg" />
 2. **Авторизованный пользователь** — имеет доступ к личному кабинету и базовым функциям.
+   <img width="766" height="817" alt="image" src="https://github.com/lesiayarm/leetcode_project/tree/main/UMLDiagrams/User.svg" />
 3. **Администратор** — управляет пользователями, контентом и настройками системы.
+   <img width="766" height="817" alt="image" src="https://github.com/lesiayarm/leetcode_project/tree/main/UMLDiagrams/Admin.svg" />
 
 ### Диаграмма вариантов использования:
 ![Use Case Diagram](https://github.com/lesiayarm/leetcode_project/tree/main/UMLDiagrams)
+<img width="766" height="817" alt="image" src="https://github.com/lesiayarm/leetcode_project/tree/main/UMLDiagrams/MainDiag.svg" />
+
+
+
 
 ## Схема базы данных
 ### ER-диаграмма:
